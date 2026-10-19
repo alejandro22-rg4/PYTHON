@@ -1,0 +1,8 @@
+LABORATORIO 2 - PYTHON
+
+1. Abre esta carpeta en VS Code.
+2. Lee Guia_Practica_Python_2.pdf.
+3. Ejecuta cada archivo con python nombre_archivo.py (o py en Windows).
+4. Completa cada # TAREA.
+5. Los archivos 06 a 08 se crean desde cero.
+No se requiere cuaderno, informe ni evaluacion.

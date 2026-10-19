@@ -1,0 +1,13 @@
+LABORATORIO PRACTICO DE PYTHON - PRINCIPIANTES
+
+1. Abre esta carpeta con Visual Studio Code.
+2. Instala Python 3 desde python.org y la extension Python de Microsoft en VS Code.
+3. Abre la terminal de VS Code (Terminal > New Terminal).
+4. Ejecuta cada archivo con: python ejemplos/01_hola.py
+   En algunos equipos Windows se usa: py ejemplos/01_hola.py
+   En Linux/macOS puede ser: python3 ejemplos/01_hola.py
+5. Lee Guia_Practica_Python.pdf y sigue los retos.
+6. Los archivos en soluciones_supervisor son de apoyo para quien supervisa;
+   no son necesarios para resolver las actividades.
+
+Solo se usan datos ficticios. No instales librerias adicionales.
