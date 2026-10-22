@@ -1,0 +1,2 @@
+Caso 100: ERROR de impresora.
+Caso 101: equipo revisado.

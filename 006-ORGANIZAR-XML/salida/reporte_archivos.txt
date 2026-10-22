@@ -1,0 +1,13 @@
+Total de archivos encontrados: [WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/aviso.txt'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/clientes.csv'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/factura_001.xml'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/factura_002.xml'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/inventario.xml'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/notas.txt'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/otro.xml'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/pedido_001.xml'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/productos.csv'), WindowsPath('C:/Users/PROGRAMACION/Desktop/PRACTICAS/PYTHON/006-ORGANIZAR-XML/archivos_practica/soporte.txt')]
+========================================
+Lista de archivos:
+- aviso.txt
+- clientes.csv
+- factura_001.xml
+- factura_002.xml
+- inventario.xml
+- notas.txt
+- otro.xml
+- pedido_001.xml
+- productos.csv
+- soporte.txt
