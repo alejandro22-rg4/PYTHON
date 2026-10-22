@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <razonSocial>Empresa Ficticia 14</razonSocial>
+    <ruc>9999999999999</ruc>
+    <codDoc>06</codDoc>
+  </infoTributaria>
+  <infoGuiaRemision>
+    <fechaEmision>22/10/2026</fechaEmision>
+    <importeTotal>238.50</importeTotal>
+  </infoGuiaRemision>
+</guiaRemision>

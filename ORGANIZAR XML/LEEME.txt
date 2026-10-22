@@ -1,0 +1,7 @@
+LABORATORIO 4 - PASANTES
+1. Lee la guía PDF.
+2. Abre la carpeta en VS Code.
+3. Completa # TAREA de ejercicios/01 a 09.
+4. Construye el clasificador del ejercicio 10.
+5. No borres ni muevas archivos originales.
+6. No utilices documentos reales.

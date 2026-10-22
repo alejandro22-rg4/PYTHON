@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <razonSocial>Empresa Ficticia 5</razonSocial>
+    <ruc>9999999999999</ruc>
+    <codDoc>07</codDoc>
+  </infoTributaria>
+  <infoCompRetencion>
+    <fechaEmision>22/10/2026</fechaEmision>
+    <importeTotal>85.50</importeTotal>
+  </infoCompRetencion>
+</comprobanteRetencion>

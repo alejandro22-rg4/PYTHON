@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notaDebito id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <razonSocial>Empresa Ficticia 3</razonSocial>
+    <ruc>9999999999999</ruc>
+    <codDoc>05</codDoc>
+  </infoTributaria>
+  <infoNotaDebito>
+    <fechaEmision>22/10/2026</fechaEmision>
+    <importeTotal>51.50</importeTotal>
+  </infoNotaDebito>
+</notaDebito>
